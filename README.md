@@ -7,7 +7,7 @@
 1. Type `npm install` to install the rest of the dependencies (libraries of code) needed for the project.  You should see "0 vulnerabilities" in the output.
 1. Last command - type `netlify dev`. A browser window should pop up with the contents of `index.html`.
 
-**You'll absolutely know if the setup worked - the success page is very obvious. If you don't see it, ask for help in slack BEFORE CLASS. We won't have time in class for setup issues.**
+**You'll positively 💯 know if the setup worked - the success page is very obvious.**
 
 Now that everything is installed and working, you can end the terminal session by typing the keys CTRL+C in the terminal window (note: if prompted to "Terminate Batch Job?", type "Y" and hit Enter).  This will stop the Netlify Dev server.  You're ready for class!
 
