@@ -1,7 +1,7 @@
 # Week 8: Netlify Dev Install and Test
 
 1. If you haven't already done so, create a new repository in your GitHub account by selecting "Use this template"; name the new repository "week8" and clone/open the new repo in VS Code.
-1. Install node.js – go to https://nodejs.org and choose the "Current" version. Open the installer and complete the steps.
+1. Install node.js – go to https://nodejs.org and choose the "Current" version. Open the installer and complete the steps using the defaults.  If prompted to install "Tools for Native Modules", skip it (i.e. do not check the box, just click Next).
 1. In VSCode, open a new Terminal via the menu bar -> Terminal -> New Terminal.
 1. In the Terminal, you will see a prompt where you can type commands to your computer. The prompt should display the location on your computer where your "week8" repository lives (for example, that might be `/Code/week8`).  The path might be followed by another character (e.g. `$` or `>`) which marks the end of the prompt and where you can begin typing commands.  If you do not see week8 towards the end of the prompt, please first complete the "Reset Terminal" instructions at the bottom before continuing.
 1. Assuming your terminal prompt appears as expected, type the command `node -v` and hit Enter.  This step is to ensure that Node was successfully installed on your computer. If there's a new line with a version number (e.g. `v15.10.0`) and then the prompt again, everything is good and you can continue.  If you do not see a version number, or you see some warning or error message, do not continue.  Reach out on slack for help.
