@@ -10,3 +10,10 @@
 **You'll absolutely know if the setup worked - the success page is very obvious. If you don't see it, ask for help in slack BEFORE CLASS. We won't have time in class for setup issues.**
 
 Now that everything is installed and working, you can end the terminal session by typing the keys CTRL+C in the terminal window (note: if prompted to "Terminate Batch Job?", type "Y" and hit Enter).  This will stop the Netlify Dev server.  You're ready for class!
+
+## For Windows users only
+
+If the `netlify dev` command doesn't work and you don't see the success page, you can try one of two fixes:
+
+- In your Terminal window in VSCode, there's a little dropdown; select the option to "select a default shell". Select cmd and close and re-open the Terminal window.
+- If that doesn't work, do everything outside of VSCode using the Command Prompt that's built into Windows: Start Menu -> type `cmd`. Then change into the week8 directory typing `cd \path\to\code\week8` (`cd ` with a space, then the file path to your week8 folder), and then go through the instructions above.
